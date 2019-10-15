@@ -4,3 +4,5 @@ deepin-wine不升级到2.18-19，无法安装最新版本的微信
 
 其他软件下载：
 [下载软件](http://mirrors.aliyun.com/deepin/pool/non-free/d/) 
+
+thanks: [https://forum.ubuntu.org.cn/viewtopic.php?t=490131](https://forum.ubuntu.org.cn/viewtopic.php?t=490131) 
