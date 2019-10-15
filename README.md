@@ -1,5 +1,5 @@
 
-[wszqkzqk同学](https://github.com/wszqkzqk/deepin-wine-ubuntu) 已经一年没有更新了，这里提供更新deepin-wine2.18-19的资源
+[wszqkzqk同学](https://github.com/wszqkzqk/deepin-wine-ubuntu) 已经一年没有更新了，这里提供更新deepin-wine2.18-19的资源      
 deepin-wine不升级到2.18-19，无法安装最新版本的微信
 
 其他软件下载：
